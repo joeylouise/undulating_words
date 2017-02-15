@@ -1,0 +1,17 @@
+#main, #rollercoaster {
+  margin: 0 auto;
+  max-width: 360px; 
+  text-align: center;
+}
+
+#rollercoaster {
+	font-family: monospace;
+	margin-top: 10px;
+	max-width: none;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+button {
+	margin: 20px;
+}
