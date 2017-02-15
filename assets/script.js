@@ -1,7 +1,7 @@
 function rollercoaster() {
 	var div = document.getElementById('rollercoaster');
 	var userInput = document.getElementById('userInput');
-	str = userInput.value;
+	var str = userInput.value;
 	var size = 0;
 
 	for (var i = 0; i < str.length; i++) {
